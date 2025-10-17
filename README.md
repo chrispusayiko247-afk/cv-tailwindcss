@@ -1,2 +1,2 @@
 # cv-tailwindcss
-Designing cv using tailwindcss
+Designing my_cv using tailwindcss
